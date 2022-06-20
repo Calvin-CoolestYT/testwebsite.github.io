@@ -1,5 +1,5 @@
 ---
-title: Jekyll Sites Theme
+title: Hello :D
 ---
 
-This is a theme for Jekyll sites
+This is a test site
